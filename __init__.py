@@ -16,7 +16,7 @@ bl_info = {
     "author" : "Franck Demongin",
     "description" : "Set time of animation in seconds",
     "blender" : (2, 80, 0),
-    "version" : (0, 1, 0),
+    "version" : (1, 0, 0),
     "location" : "Properties > Output > Frame Range",
     "category" : "Generic"
 }
